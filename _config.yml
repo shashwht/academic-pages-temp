@@ -18,8 +18,7 @@ author:
 
   name: "Shashwat Singh"
 
-  bio: "Computer Science Undergraduate • Artificial Intelligence • Machine Learning"
-
+  bio: "Pre-final Year Computer Science Undergraduate"
   location: "Lucknow, India"
 
   employer: "National Forensic Sciences University (NFSU)"
@@ -27,14 +26,8 @@ author:
   email: "shashwht@gmail.com"
   # Academic websites
   orcid            : "https://orcid.org/0009-0003-5323-0686"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
-
-  # Repositories and software development
-  github           : "shashwht""
+    # Repositories and software development
+  github           : "shashwht"
   linkedin         : "shashwatsingh69"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
