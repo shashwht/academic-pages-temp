@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----## About
+---  
+
+## About
 
 I am a **Computer Science undergraduate** at the **National Forensic Sciences University (NFSU)**, studying at the **Uttar Pradesh State Institute of Forensic Sciences (UPSIFS), Lucknow Campus**. My research interests lie in **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.
 
