@@ -8,9 +8,9 @@ name: &name "Shashwat Singh"
 description: &description "Computer Science undergraduate interested in Artificial Intelligence, Machine Learning, and Computer Vision."
 
 url: "https://shashwht.github.io"
-baseurl: "/academic-pages-temp"
+baseurl: ""
 
-repository: "shashwht/academic-pages-temp"
+repository: "shashwht/shashwht.github.io"
 author:
 
   avatar: "profile.jpg"
