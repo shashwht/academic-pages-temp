@@ -25,16 +25,17 @@
   }
 
   @include breakpoint($large) {
-    @include span(3 of 12);
+    width: 300px;
+    flex: 0 0 300px;
     opacity: 1;
+
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
     &:hover {
       opacity: 1;
     }
-  }
-
+}
  @include breakpoint($x-large) {
     max-width: 320px;
     padding-right: 15px;
