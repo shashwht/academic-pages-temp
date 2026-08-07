@@ -12,3 +12,17 @@ img.author__avatar {
     border-radius: 12px !important;
     display: block !important;
 }
+/* Desktop layout override */
+@media (min-width: 1024px) {
+
+  .sidebar {
+    width: 280px !important;
+    max-width: 280px !important;
+  }
+
+  .page {
+    margin-left: 320px !important;
+    width: calc(100% - 340px) !important;
+    max-width: none !important;
+  }
+}
