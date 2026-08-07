@@ -21,7 +21,11 @@
 }
 
 .page {
-   
+  @include breakpoint($large) {
+    margin-left: 340px;
+    width: calc(100% - 340px);
+  }
+
   .page__inner-wrap {
     @include full();
 
