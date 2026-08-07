@@ -20,8 +20,9 @@ author:
   bio: "Pre-final Year Computer Science Undergraduate"
   location: "Lucknow, India"
 
-  employer: 
-  email: "shashwht@gmail.com"
+employer: "UPSIFS (NFSU)"
+employer_url: "https://www.upsifs.ac.in/"
+email: "shashwht@gmail.com"
   # Academic websites
   orcid            : "https://orcid.org/0009-0003-5323-0686"
     # Repositories and software development
