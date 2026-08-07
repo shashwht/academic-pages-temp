@@ -1,8 +1,14 @@
-/* Square profile photo */
-.author__avatar img {
+.author__avatar,
+.author__avatar img,
+img.author__avatar {
     width: 220px !important;
     height: 220px !important;
-    object-fit: cover;
+    max-width: 220px !important;
+    max-height: 220px !important;
+}
+
+img.author__avatar {
+    object-fit: cover !important;
     border-radius: 12px !important;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    display: block !important;
 }
