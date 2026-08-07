@@ -20,14 +20,17 @@ author:
   bio: "Pre-final Year Computer Science Undergraduate"
   location: "Lucknow, India"
 
-  employer: "UPSIFS (NFSU)"
-
+  employer: 
   email: "shashwht@gmail.com"
   # Academic websites
   orcid            : "https://orcid.org/0009-0003-5323-0686"
     # Repositories and software development
   github           : "shashwht"
   linkedin         : "shashwatsingh69"
+  author_links:
+  - label: "UPSIFS (NFSU)"
+    icon: "fas fa-university"
+    url: "https://www.upsifs.ac.in/"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
