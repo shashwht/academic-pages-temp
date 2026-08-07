@@ -29,3 +29,10 @@ img.author__avatar {
     max-width: 900px;
 }
 }
+.author__desktop a {
+    display: inline;
+}
+
+.author__desktop {
+    white-space: nowrap;
+}
